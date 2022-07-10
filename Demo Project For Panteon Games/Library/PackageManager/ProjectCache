@@ -5,21 +5,73 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637922751546508628
-    m_Hash: 2945761634
+      ticks: 637927123665775729
+    m_Hash: 4146885566
   m_LockFileStatus:
     m_FilePath: C:/Users/kerim/Desktop/Demo-Project/Demo Project For Panteon Games/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637922752385623789
-    m_Hash: 1603084036
+      ticks: 637927123665985753
+    m_Hash: 1005525102
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
   m_Packages:
     m_ResolvedPackages:
+    - packageId: com.unity.2d.sprite@1.0.0
+      testable: 0
+      isDirectDependency: 1
+      version: 1.0.0
+      source: 2
+      resolvedPath: C:\Users\kerim\Desktop\Demo-Project\Demo Project For Panteon
+        Games\Library\PackageCache\com.unity.2d.sprite@1.0.0
+      assetPath: Packages/com.unity.2d.sprite
+      name: com.unity.2d.sprite
+      displayName: 2D Sprite
+      author:
+        name: 
+        email: 
+        url: 
+      category: 2D
+      type: 
+      description: Use Unity Sprite Editor Window to create and edit Sprite asset
+        properties like pivot, borders and Physics shape
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.0.0
+        compatible:
+        - 1.0.0
+        verified: 1.0.0
+      dependencies: []
+      resolvedDependencies: []
+      keywords:
+      - 2d
+      - sprite
+      - sprite editor window
+      registry:
+        id: 
+        name: 
+        url: 
+        scopes: []
+        isDefault: 0
+        capabilities: 0
+      hasRegistry: 0
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 0
+      repository:
+        type: 
+        url: 
+        revision: 
+        path: 
     - packageId: com.unity.cinemachine@2.6.4
       testable: 0
       isDirectDependency: 1
@@ -3248,6 +3300,7 @@ m_PackageAssets:
         - 1.0.5
         - 1.0.6
         - 2.0.2
+        - 2.0.3
         compatible:
         - 0.1.5-preview
         - 0.1.6-preview
@@ -3256,6 +3309,7 @@ m_PackageAssets:
         - 1.0.5
         - 1.0.6
         - 2.0.2
+        - 2.0.3
         verified: 1.0.6
       dependencies: []
       resolvedDependencies: []
@@ -3798,17 +3852,39 @@ m_PackageAssets:
         - 7.4.2
         - 7.4.3
         - 7.5.1
+        - 7.5.2
+        - 7.5.3
+        - 7.6.0
+        - 7.7.0
+        - 7.7.1
         - 8.0.1
         - 8.1.0
         - 8.2.0
+        - 8.3.1
         - 9.0.0-preview.15
         - 9.0.0-preview.35
         - 9.0.0-preview.57
+        - 9.0.0-preview.74
         - 10.0.0-preview.27
+        - 10.1.0
+        - 10.2.0
+        - 10.2.1
+        - 10.2.2
+        - 10.3.1
+        - 10.3.2
+        - 10.4.0
+        - 10.5.0
         - 10.5.1
+        - 10.6.0
         - 10.7.0
+        - 10.8.0
+        - 10.8.1
+        - 10.9.0
         compatible:
         - 10.7.0
+        - 10.8.0
+        - 10.8.1
+        - 10.9.0
         verified: 10.7.0
       dependencies:
       - name: com.unity.render-pipelines.core
@@ -3839,7 +3915,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 0
+      datePublishedTicks: 637678189260000000
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -4046,6 +4122,8 @@ m_PackageAssets:
         - 4.3.2
         - 4.6.0-preview
         - 4.7.0-preview
+        - 4.9.1
+        - 4.9.2
         compatible:
         - 4.0.0-preview
         - 4.0.0
@@ -4061,6 +4139,8 @@ m_PackageAssets:
         - 4.3.2
         - 4.6.0-preview
         - 4.7.0-preview
+        - 4.9.1
+        - 4.9.2
         verified: 4.3.2
       dependencies: []
       resolvedDependencies: []
@@ -4079,7 +4159,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 0
+      datePublishedTicks: 637509898070000000
       documentationUrl: 
       hasRepository: 1
       repository:

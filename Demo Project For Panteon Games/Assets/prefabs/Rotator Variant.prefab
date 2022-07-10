@@ -63,6 +63,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 4129bf910f93abf43aa02d5e6b07261d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2ae578d84eada764fbdee6fa977ab1a7, type: 2}
     - target: {fileID: 919132149155446097, guid: 4129bf910f93abf43aa02d5e6b07261d, type: 3}
       propertyPath: m_Name
       value: RotatingStick
@@ -155,6 +159,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 4129bf910f93abf43aa02d5e6b07261d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2ae578d84eada764fbdee6fa977ab1a7, type: 2}
     - target: {fileID: 919132149155446097, guid: 4129bf910f93abf43aa02d5e6b07261d, type: 3}
       propertyPath: m_Name
       value: RotatingStick (1)
@@ -247,9 +255,13 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 9776f0e45b2774441bf06b4188e7e171, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2ae578d84eada764fbdee6fa977ab1a7, type: 2}
     - target: {fileID: 919132149155446097, guid: 9776f0e45b2774441bf06b4188e7e171, type: 3}
       propertyPath: m_Name
-      value: Rotator
+      value: Rotator Variant
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 9776f0e45b2774441bf06b4188e7e171, type: 3}
       propertyPath: m_TagString
@@ -357,6 +369,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 4129bf910f93abf43aa02d5e6b07261d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2ae578d84eada764fbdee6fa977ab1a7, type: 2}
     - target: {fileID: 919132149155446097, guid: 4129bf910f93abf43aa02d5e6b07261d, type: 3}
       propertyPath: m_Name
       value: RotatingStick (3)
@@ -449,6 +465,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 4129bf910f93abf43aa02d5e6b07261d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2ae578d84eada764fbdee6fa977ab1a7, type: 2}
     - target: {fileID: 919132149155446097, guid: 4129bf910f93abf43aa02d5e6b07261d, type: 3}
       propertyPath: m_Name
       value: RotatingStick (2)
