@@ -8,6 +8,7 @@ public class OpponentMovement : MonoBehaviour
     private GameObject destination;
     private GameObject StartPoint;
     private Rigidbody enemyRB;
+    private float spawnPointX = 1.17f;
 
     
      void Start()
@@ -40,7 +41,7 @@ public class OpponentMovement : MonoBehaviour
     {
         if(other.gameObject.tag == "Obstacle")
         {
-            transform.position = StartPoint.transform.position;
+            transform.position = new Vector3(Random.Range(-spawnPointX,spawnPointX),StartPoint.transform.position.y,StartPoint.transform.position.z);
         }
     }
 }
